@@ -15,4 +15,5 @@ if st.button("generate"):
 
     else:
         st.error("please enter a prompt to get response")
+        
     
