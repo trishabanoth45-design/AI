@@ -1,5 +1,4 @@
 import streamlit as st
-import ollama
 
 st.title("My AI chatboat")
 st.subheader("welcome!Ask something to AI and it will respond to you")
